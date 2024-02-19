@@ -1,0 +1,26 @@
+{"properties": [
+  {
+    "name": "rest.connection.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'rest.connection.timeout'"
+  },
+  {
+    "name": "api.baseUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'api.baseUrl'"
+  }
+]} "description": "A description for 'rest.connection.timeout'"
+  },
+  {
+    "name": "rest.read.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'rest.read.timeout'"
+  }
+]} "description": "A description for 'rest.connection.timeout'"
+  },
+  {
+    "name": "api.baseUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'api.baseUrl'"
+  }
+]}
